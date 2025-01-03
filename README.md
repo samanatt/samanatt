@@ -6,7 +6,7 @@
 # سلام! 👋
 به پروفایل من خوش آمدید! 🌟
 
-## زبان‌های پر استفاده من
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanatt&layout=compact)
 
 
